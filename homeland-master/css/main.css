@@ -74,7 +74,7 @@ html, body {
 }
 
 body {
-    background: #111111;
+    background: white;
     font-family: "lora-regular", serif;
     font-size: 1.7rem;
     font-style: normal;
@@ -2241,7 +2241,7 @@ html.no-csstransitions .home-content__main {
     font-family: "montserrat-bold", sans-serif;
     font-size: 8.4rem;
     line-height: 1;
-    color: #FFFFFF;
+    color: #111111;
     position: relative;
     overflow: hidden;
     text-overflow: ellipsis;
